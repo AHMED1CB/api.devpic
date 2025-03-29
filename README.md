@@ -9,6 +9,7 @@ You Can Use Api To Upload Ur Project Images And Get use It on your website.
 ## Routes
 
 "<b>/api/auth/register</b>" => <span> To Register A new User</span>
+
 <br>
 
 "<b>/api/auth/login</b>" => <span> To Login And Get Auth Token</span>
