@@ -45,3 +45,11 @@ You Can Use Api To Upload Ur Project Images And Get use It on your website.
 <br>
 
 "<b>/api/pics/{id}/comment</b>" => <span> To Store Or Delete Comment By (action {create | delete})</span>
+
+<br>
+
+"<b>/api/users/user/follow</b>" => <span> To Follow Or Unfollow User</span>
+
+<br>
+
+"<b>/api/users/user/{slug}</b>" => <span> To Visit Users By Slug</span>
